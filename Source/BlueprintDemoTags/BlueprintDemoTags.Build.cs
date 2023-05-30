@@ -1,13 +1,15 @@
-﻿using UnrealBuildTool;
+﻿// Copyright Guy (Drakynfly) Lundvall. All Rights Reserved.
+
+using UnrealBuildTool;
 
 public class BlueprintDemoTags : ModuleRules
 {
     public BlueprintDemoTags(ReadOnlyTargetRules Target) : base(Target)
     {
-        PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
+        PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
         PublicDependencyModuleNames.AddRange(
-            new string[]
+            new []
             {
                 "Core",
                 "GameplayTags"
@@ -15,7 +17,7 @@ public class BlueprintDemoTags : ModuleRules
         );
 
         PrivateDependencyModuleNames.AddRange(
-            new string[]
+            new []
             {
                 "CoreUObject",
                 "Engine",

@@ -1,6 +1,7 @@
-﻿#pragma once
+﻿// Copyright Guy (Drakynfly) Lundvall. All Rights Reserved.
 
-#include "CoreMinimal.h"
+#pragma once
+
 #include "Modules/ModuleManager.h"
 
 class FBlueprintDemoTagsModule : public IModuleInterface

@@ -12,5 +12,12 @@
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BlueprintDemoTags",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }

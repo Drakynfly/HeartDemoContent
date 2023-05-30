@@ -1,8 +1,6 @@
-# Heart Graph Demo
+# Heart Demo Content
 
-This is a WIP example project showing multiple implementations of Heart Graph, serving as both my personal testing ground for developing Heart, and as a living documentation of what it can do.
-
-HeartGraph is linked to this repo as a submodule, so make sure to grab it when cloning or fetching updates.
+This is a WIP plugin containing example implementations of Heart Graph, serving as both my personal testing ground for developing Heart, and as a living documentation of what it can do.
 
 (current progress: 1.5/5)
 
@@ -17,7 +15,7 @@ As I continue work on Heart Graph, this project is used to help me determine whi
    - Blueprint-only
    - Can be edited from Editor or Runtime
    - Will be used for fleshing out more advanced node action behavior
-   - Showcase HeartCanvas's visual design tools
+   - Showcase HeartCanvas's visual design tools, with both 2D and 3D visualizers
 3. Level Selection Screen (Planned)
    - A 3D enviroment where each node represents a mission or level
    - Showcases 3D graph capability with Actors & Scene Components being used to represent Nodes & Pins
@@ -32,4 +30,6 @@ As I continue work on Heart Graph, this project is used to help me determine whi
 ## Links
 Heart Plugin: https://github.com/Drakynfly/HeartGraph
 
-Discord:      https://discord.gg/AAk9yNwKk8 (Drakynfly's Plugins)
+Demo Project: https://github.com/Drakynfly/HeartDemoProject
+
+Discord:      [![Discord](https://img.shields.io/discord/996247217314738286.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/AAk9yNwKk8) (Drakynfly's Plugins)

@@ -13,7 +13,7 @@
  *                                 ^^ link says 4.27 but this is still accurate
  * The only thing that matters is that they all are children of "Heart.Pin".
  *
- * If you are building a fully c++ Heart Graph, then I would suggest either using the method below, or better yet,
+ * If you are building a fully c++ Heart Graph, then I would suggest either using the method below, or alternatively,
  * use FGameplayTagNativeAdder (see FGlobalUITags for an example of this)
  */
 

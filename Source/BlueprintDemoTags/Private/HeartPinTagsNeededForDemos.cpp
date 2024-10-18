@@ -9,8 +9,7 @@
  * I just prefer to do it this way :)
  *
  * See here for more info if you are new to gameplay tags:
- *   https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Tags/
- *                                 ^^ link says 4.27 but this is still accurate
+ *   https://dev.epicgames.com/documentation/en-us/unreal-engine/using-gameplay-tags-in-unreal-engine
  * The only thing that matters is that they all are children of "Heart.Pin".
  *
  * If you are building a fully c++ Heart Graph, then I would suggest either using the method below, or alternatively,
